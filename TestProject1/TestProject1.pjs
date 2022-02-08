@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{773B09D7-25B7-4B1D-94BC-D9E41345B8DA}">
+	<children>
+		<child name="TestProject1" key="{601AA889-ECE1-4F5C-AC0F-7A64925C4575}" path="TestProject1\TestProject1.mds" />
+	</children>
+	<testItems key="{5505454A-A913-439B-BBC4-9B9E1C504B4C}">
+		<children>
+			<testItem key="{601AA889-ECE1-4F5C-AC0F-7A64925C4575}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{5FB4B83A-2C9C-4937-8B98-78E8EE8AA38D}" />
+	<analysis key="{6B61A20D-3A2F-4A67-9953-4A74B79887C3}" />
+	<scc key="{F0D60D49-B342-4271-94E0-3E8C61A0E7D6}" name="Team Foundation Version Control Plugin">
+		<data />
+	</scc>
+</Root>

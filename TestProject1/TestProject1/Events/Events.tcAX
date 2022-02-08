@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="1400" key="{5AEF75C0-7E00-4D0F-95EC-80CA50DAA5E7}" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
+	<config nodeName="Events" tlbHistory="" />
+	<testData />
+	<data />
+	<children>
+		<child key="{27C44B9C-434D-4A85-A53D-186738B30BC3}">
+			<config nodeName="EventControl1" lastOpenedTLB="" generatedCLSID="{FA7C9DB4-845C-4932-A996-A2BCC9C2C3BD}" generatedTLBKey="{188C52BB-8D98-4903-9659-A17EDF6BC3BE}" generatedEventsKey="{E10A6E85-8020-4A14-8236-EC5391A84611}" generatedTLBDesc="TestComplete EventControl1 Control - 1/5/2022 11:39:21 AM">
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743811" infoControlName="General Events" infoEventName="OnLogError" infoEventRealName="OnLogError" infoDescription="Occurs when an error message is posted to the test log." />
+				<handlerInfo handlerName="EventControl1_OnLogError" handlerMoniker="{A3ACA5E7-33E3-41DA-AA15-688C47E9B159}EventControl1_OnLogError" handlerEventName="OnLogError" handlerRealIID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" handlerRealDispID="1610743811" />
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>
